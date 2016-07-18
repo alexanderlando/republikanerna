@@ -6,7 +6,7 @@
 </head>
 <body bgcolor="#0755bf">
 <center>
-<img src="republikanerna.png"><br><br>
+<img src="republikanernalogo.png"><br>
 <iframe width="800" height="480" src="https://www.youtube.com/embed/SJ7ZTQxm6bc" frameborder="0" allowfullscreen></iframe>
 </body><br>
 <font face="verdana, arial" size="2" color="#FFFFFF"><a href="mailto:alexander@republikanerna.com" style="color:white">Kontakta Republikanerna</a></font>
