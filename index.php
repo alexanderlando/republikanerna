@@ -7,5 +7,5 @@
 <img src="republikanerna.png"><br><br>
 <iframe width="800" height="480" src="https://www.youtube.com/embed/nwbYLlq7iYo" frameborder="0" allowfullscreen></iframe>
 </body><br>
-<font face="verdana, arial" size="2"><mailto="alexander@republikanerna.com"></mailto="alexander@republikanerna.com"></font>
+<font face="verdana, arial" size="2" color="#FFFFFF"><mailto="alexander@republikanerna.com">kontakta oss</mailto="alexander@republikanerna.com"></font>
 </html>
