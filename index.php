@@ -1,9 +1,8 @@
 <html>
 <head>
-<title>Republikanerna.com</title>
-<meta property="og:image" content="http://republikanerna.com/republikanerna.jpg"/>
-<meta property="og:title" content="Republikanerna - 2016 KONVENT LIVE STREAM"/>
-<meta property="og:description" content="Följ Republikanernas Konvent 2016 via Republikanerna.com"/>
+<title>Republikanerna.com - 2016 KONVENT LIVE STREAM</title>
+<link rel="image_src" href="http://republikanerna.com/republikanerna.jpg" / >
+<meta name="description" content="Livestreama Republikanernas Konvent 2016 på Svenska Republikanerna.com" />
 </head>
 <body bgcolor="#1f4981">
 <center>
